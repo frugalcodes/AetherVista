@@ -1,0 +1,32 @@
+{
+  "name": "aethervista-theme",
+  "displayName": "AetherVista",
+  "description": "AetherVista is a visually captivating coding theme that seamlessly blends celestial aesthetics with functional design. Immerse yourself in an ethereal coding experience, where the soothing color palette and intuitive syntax highlighting elevate your programming environment to new heights. Enjoy coding with a touch of the celestial with AetherVista.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AetherVista",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AetherVista-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "aethervista",
+    "theme",
+    "coding",
+    "visual",
+    "celestial",
+    "aesthetic",
+    "syntax highlighting"
+  ],
+  "publisher": "samuelligwe"
+}
+
